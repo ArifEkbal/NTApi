@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthTokenDemo", "OAuthTokenDemo\OAuthTokenDemo.csproj", "{5D32EC4F-3920-4553-A825-A22214225B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthTokenDemo.Api", "OAuthTokenDemo.Api\OAuthTokenDemo.Api.csproj", "{4274743B-7E93-4629-AE68-BA0BBD2A3A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D32EC4F-3920-4553-A825-A22214225B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D32EC4F-3920-4553-A825-A22214225B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D32EC4F-3920-4553-A825-A22214225B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D32EC4F-3920-4553-A825-A22214225B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4274743B-7E93-4629-AE68-BA0BBD2A3A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4274743B-7E93-4629-AE68-BA0BBD2A3A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4274743B-7E93-4629-AE68-BA0BBD2A3A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4274743B-7E93-4629-AE68-BA0BBD2A3A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7DFAA3-56AB-4098-91DE-94DDEB015304}
+	EndGlobalSection
+EndGlobal
